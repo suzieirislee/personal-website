@@ -49,20 +49,14 @@ p {
 .column_1{
   float: left;
   background-color: #f8f8f8;
-  width: 50%;
+  width: 40%;
   height: 500px;
-}
-
-.photo_creds{
-  font-family: 'Lora', serif;
-  font-size: 14px;
-  color: #f99ae4;
 }
 
 .column_2{
   float: left;
   background-color: #f8f8f8;
-  width: 50%;
+  width: 60%;
   height: 500px;
 }
 
