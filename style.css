@@ -11,6 +11,30 @@ p {
   margin:0;
 }
 
+.navigation {
+  height: auto;
+  width: 100%;
+  text-align: center;
+}
+
+.navigation img {
+  width: 250px;
+}
+
+.navigation ul {
+  padding: 0;
+}
+
+.navigation li {
+  display: inline-block;
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  letter-spacing: 3px;
+  margin: 25px;
+  text-transform: uppercase;
+  padding-right: 50px;
+}
+
 .name{
   font-family: 'Istok Web', sans-serif;
   font-size: 20px;
