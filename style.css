@@ -1,9 +1,9 @@
 body{
-  background-color: #f8f8f8;
+  background-color: #EFBFC6;
 }
 
 a {
-  color: #f99ae4;
+  color: #8A0F0F;
 }
 
 p {
@@ -39,7 +39,7 @@ p {
   font-family: 'Istok Web', sans-serif;
   font-size: 20px;
   text-align: left;
-  color: #f99ae4;
+  color: #FF12A8;
 }
 
 .pro_pic img{
@@ -48,14 +48,14 @@ p {
 
 .column_1{
   float: left;
-  background-color: #f8f8f8;
+  background-color: #EFBFC6;
   width: 40%;
   height: 500px;
 }
 
 .column_2{
   float: left;
-  background-color: #f8f8f8;
+  background-color: #EFBFC6;
   width: 60%;
   height: 500px;
 }
@@ -63,7 +63,7 @@ p {
 .paragraphs{
   font-family: 'Lora', serif;
   font-size: 18px;
-  color: #f99ae4;
+  color: #C22828;
   text-align: justify;
   padding: 20px;
   padding-top:0;
