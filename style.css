@@ -1,5 +1,9 @@
+html {
+
+}
 body{
   background-color: #EFBFC6;
+
 }
 
 a {
@@ -30,16 +34,11 @@ p {
   font-family: 'Lora', serif;
   font-size: 18px;
   letter-spacing: 3px;
-  margin: 25px;
   text-transform: uppercase;
-  padding-right: 50px;
-}
-
-.name{
-  font-family: 'Istok Web', sans-serif;
-  font-size: 20px;
-  text-align: left;
-  color: #FF12A8;
+  margin: 45px auto;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .pro_pic img{
@@ -74,22 +73,56 @@ p {
 }
 
 .img {
-margin: 5px;
-border: 1px solid #ccc;
-float: left;
-width: 180px;
+  margin: 5px;
+  float: left;
+  width: 180px;
 }
 
 .img:hover {
-border: 1px solid #777;
+  border: 1px solid #777;
 }
 
 div.img img {
-width: 100%;
-height: auto;
+  width: 100%;
+  height: auto;
 }
 
 div.desc {
   padding: 15px;
   text-align: center;
+}
+
+.gallery {
+  margin-left: auto;
+  margin-right: auto;
+  width: 570px;
+  position: relative;
+  display: block;
+  height: auto;
+}
+
+.form-container {
+    margin: 0 auto;
+    width: 570px;
+}
+.form-container input {
+
+}
+.form-container label {
+
+}
+
+.form-container textarea {
+  width: 570px;
+  height: 200px;
+  margin-top: 8px;
+  border: 0;
+  padding: 0;
+}
+.form-top {
+  width: 570px;
+}
+
+.form-container select {
+  width: 94px;
 }
